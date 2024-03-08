@@ -16,6 +16,9 @@ XDG Desktop Portal 在架构上分为前端和后端，前端是应用程序访�
 
 张丁元 `<zhangdingyuan@uniontech.com>`
 
+## 赛题分类
+未归类运行时支撑
+
 ## 难度
 
 低
